@@ -1,0 +1,11 @@
+
+public sealed class Animal
+{
+    public void MakeSound()
+    {
+        Console.WriteLine("Animal makes a sound");
+    }
+}
+
+// خطای کامپایل: نمی توان از کلاس مهر و موم شده ارث بری کرد
+// public class Dog : Animal { }
