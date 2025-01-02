@@ -1,0 +1,10 @@
+D:\WORK\ماشین حساب\ماشین حساب\bin\Debug\ماشین حساب.exe.config
+D:\WORK\ماشین حساب\ماشین حساب\bin\Debug\ماشین حساب.exe
+D:\WORK\ماشین حساب\ماشین حساب\bin\Debug\ماشین حساب.pdb
+D:\WORK\ماشین حساب\ماشین حساب\obj\Debug\ماشین حساب.csproj.AssemblyReference.cache
+D:\WORK\ماشین حساب\ماشین حساب\obj\Debug\ماشین_حساب.Form1.resources
+D:\WORK\ماشین حساب\ماشین حساب\obj\Debug\ماشین_حساب.Properties.Resources.resources
+D:\WORK\ماشین حساب\ماشین حساب\obj\Debug\ماشین حساب.csproj.GenerateResource.cache
+D:\WORK\ماشین حساب\ماشین حساب\obj\Debug\ماشین حساب.csproj.CoreCompileInputs.cache
+D:\WORK\ماشین حساب\ماشین حساب\obj\Debug\ماشین حساب.exe
+D:\WORK\ماشین حساب\ماشین حساب\obj\Debug\ماشین حساب.pdb
